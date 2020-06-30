@@ -1,0 +1,36 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.half-width img {
+  width: 100%;
+}
+
+h1 {
+  font-size: 50;
+}
+.name-highlight {
+  color: darkgoldenrod;
+}
+.htm {
+  color: rgb(211, 76, 13);
+}
+.cs {
+  color: blue;
+}
+.sp {
+  -webkit-text-stroke: 2px black;
+  color: green;
+}
+.js {
+  -webkit-text-stroke: 2px black;
+  color: yellow;
+}
+.bt {
+  color: indigo;
+}
